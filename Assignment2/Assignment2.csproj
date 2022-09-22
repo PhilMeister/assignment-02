@@ -16,7 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\StudentLib\StudentLib\StudentLib.csproj" />
     <ProjectReference Include="..\StudentLib\StudentLib.csproj" />
   </ItemGroup>
 
